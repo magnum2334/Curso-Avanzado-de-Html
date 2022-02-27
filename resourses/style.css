@@ -1,0 +1,56 @@
+.container{
+ position: relative;
+ max-width: 80%;
+ border: 1px solid rgb(97, 96, 96) !important;
+ margin-left: 4rem;
+ height: 50em;
+}
+
+.header{
+    text-align: center;
+    font-size:30px;
+    font-family: monospace;
+    padding-bottom: 1rem;
+}
+.name{
+   text-align: center
+}
+.text{
+    padding-left:100px;
+    align-items: center;
+    display: flex;
+    width: 80%;
+    flex-direction: column;
+}
+.text1{
+    padding-left:6.3rem;
+    align-items: center;
+}
+.objective{
+    text-align: center;
+    font-size:  30px;
+}
+.objective2{
+    text-align: center;
+    font-size:  20px;
+}
+.date{
+    text-align: right;
+    padding-right: 9em !important;
+}
+.signatures{
+    display: flex;
+    justify-content: space-evenly;
+}
+.signature{
+    border-bottom: 1px solid #777;
+    padding: 10px;
+    margin-bottom: 3em;
+}
+.img{
+    position: absolute;
+    top: 0;
+    right: 40px;
+
+   
+}
